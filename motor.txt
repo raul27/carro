@@ -1,4 +1,5 @@
 int cilindraje
 int peso
 string tipo
+string marca
 int serie

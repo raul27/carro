@@ -1,0 +1,3 @@
+Float: tamano
+String: forma
+String: color

@@ -1,0 +1,3 @@
+int cilindraje
+int peso
+int serie
